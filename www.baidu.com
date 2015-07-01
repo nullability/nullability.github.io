@@ -25,12 +25,16 @@
 	</div>
 <div id="md" style="display: none;">
 <!-- markdown -->
-
+#this is a test
+ 
+call me changlian
 <!-- markdown end -->
 </div>
 <div class="entry" id="main">
 <!-- content -->
+<h1 id="thisisatest">this is a test</h1>
 
+<p>call me changlian</p>
 <!-- content end -->
 </div>
 <br>
